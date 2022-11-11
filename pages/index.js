@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
      
      <div className={styles.div1}>
-        <p> Simple Calculator</p>
+      <p> Simple Calculator</p>
 
      </div>
       <div className={styles.div2}>
